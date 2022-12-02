@@ -3,7 +3,6 @@
 #import the libraries 
 import pandas as pd
 import numpy as np
-import sklearn as sk
 from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
 '''
